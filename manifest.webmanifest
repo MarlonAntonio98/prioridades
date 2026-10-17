@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Prioridades",
+  "short_name": "Prioridades",
+  "description": "Tu matriz de Eisenhower: qué hacer ahora, qué planificar, qué delegar y qué eliminar.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "es",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
